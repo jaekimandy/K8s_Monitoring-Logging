@@ -24,20 +24,6 @@
 | **Notification Channels** | Email, Slack, etc.   | 
 
 
-| **** | **** | **** | 
-| :---   | :--- |  :--- | 
-| **Collecting and Centralizing Logs** | Log Collection  |Use Fluentd as a logging agent on each Kubernetes node to collect logs from all containers   | 
-| ^  |   |   | 
-| ^  |   |   | 
-| **Fluentd** | Agents on each node for log collection   | 
-| **Elasticsearch** | Centralized log storage   | 
-| **Kibana** | Log visualization   | 
-| **Prometheus** | Metrics collection   | 
-| **Prometheus Exporters** | Collecting metrics from various sources   | 
-| **Grafana** | Metrics visualization   | 
-| **Prometheus Alertmanager** | Alerting and notifications   | 
-| **Notification Channels** | Email, Slack, etc.   | 
-
 <table>
   <tr>
     <th>Stage </th>
