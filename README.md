@@ -16,7 +16,7 @@
 | **Kubernetes Cluster** | Representing the distributed system   | 
 | **Fluentd** | Agents on each node for log collection   | 
 | **Elasticsearch** | Centralized log storage   | 
-| **Kibana**: | Log visualization   | 
+| **Kibana** | Log visualization   | 
 | **Prometheus** | Metrics collection   | 
 | **Prometheus Exporters** | Collecting metrics from various sources   | 
 | **Grafana** | Metrics visualization   | 
