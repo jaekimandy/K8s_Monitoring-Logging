@@ -1,6 +1,6 @@
 # K8s_Monitoring-Logging
 
-Task 3: Monitoring and Logging
+**Task 3: Monitoring and Logging**  
 • Propose a monitoring and logging solution for a distributed system running on Kubernetes.  
 • Explain how you would collect and centralize logs from multiple microservices.  
 • Describe how you would set up alerts and notifications for critical issues.  
