@@ -73,19 +73,19 @@
   <tr>
     <td rowspan="4">Monitoring Key Performance Metrics</td>
     <td>Metrics Collection</td>
-    <td>se Prometheus to collect metrics from Kubernetes nodes, pods, and services</td>
+    <td>Use Prometheus to collect metrics from Kubernetes nodes, pods, and services</td>
   </tr>
   <tr>
-    <td>Alert Rules</td>
-    <td>Define alerting rules in Prometheus based on metrics and logs</td>
+    <td>Metrics Exporters</td>
+    <td>Deploy various Prometheus exporters (e.g., node_exporter, kube-state-metrics) to gather metrics from different sources</td>
   </tr>
   <tr>
-    <td>Notification Channels</td>
-    <td>Configure Alertmanager to send notifications via email, Slack, or other messaging services</td>
+    <td>Metrics Storage and Querying</td>
+    <td>Store metrics in Prometheus and use Grafana for querying and visualization</td>
   </tr>
   <tr>
-    <td>Notification Channels</td>
-    <td>Configure Alertmanager to send notifications via email, Slack, or other messaging services</td>
+    <td>Dashboards</td>
+    <td>Set up Grafana dashboards to monitor key performance metrics such as CPU, memory usage, request latency, and error rates</td>
   </tr>
 
 </table
