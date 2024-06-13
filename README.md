@@ -98,3 +98,7 @@
 **Integration with Ecosystem**: Fluentd is highly extensible and can be integrated with various other tools, services, and platforms. It provides plugins for different log sources and destinations, allowing seamless integration with existing infrastructure. Prometheus also has a wide range of integrations with different systems and frameworks. It provides exporters for collecting metrics from various sources and supports integrations with popular monitoring and visualization tools.   
 
 **In Summary, Fluentd is a log collector and aggregator that operates on unstructured log data, while Prometheus is a monitoring system that specializes in time-series data analysis and alerting. Fluentd uses FLQL for log querying, follows a centralized architecture, and does not have built-in monitoring capabilities. Prometheus uses PromQL for time-series analysis, follows a decentralized architecture, and provides powerful monitoring and alerting features. Both tools have extensive integrations with different systems and can be used together to create a comprehensive monitoring solution.
+
+## Elastic Search with FluentD  
+![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/1ef71a1b-9c19-43c9-a7f3-eeff96bfc812)
+
