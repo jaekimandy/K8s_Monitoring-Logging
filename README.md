@@ -102,3 +102,6 @@
 ## Elastic Search with FluentD  
 ![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/1ef71a1b-9c19-43c9-a7f3-eeff96bfc812)
 
+![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/225246d1-738a-43bb-b12b-6ec251c73ae2)
+
+
