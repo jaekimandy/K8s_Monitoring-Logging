@@ -104,4 +104,8 @@
 
 ![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/225246d1-738a-43bb-b12b-6ec251c73ae2)
 
+## Grapha Metrics
+![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/b25977b2-a3e6-407f-b516-d08b32c41968)
+
+
 
