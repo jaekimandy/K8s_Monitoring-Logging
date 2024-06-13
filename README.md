@@ -81,3 +81,20 @@
  
 <a href="https://medium.com/avmconsulting-blog/prometheus-monitoring-with-elastic-stack-in-kubernetes-5cf0aaa7ce04">Reference Architecture</a>
 
+
+# Fluentd vs Prometheus: What are the differences?  
+**Introduction**: Fluentd and Prometheus are both popular open-source data collection and monitoring tools used in the field of DevOps. Although they serve similar purposes, there are some key differences between these two tools.  
+
+**Data Collection Approach**: Fluentd is a log collector and aggregator that operates on logs in real-time. It collects logs from various sources, transforms them, and sends them to various destinations for further processing. On the other hand, Prometheus is a time-series database and monitoring system that is primarily used for monitoring and alerting. It collects metrics data from configured targets periodically and stores it for analysis and visualization.  
+
+**Data Types**: Fluentd is more oriented towards collecting and processing unstructured log data. It accepts logs in various formats such as text, JSON, and others. Prometheus, on the other hand, focuses on collecting and analyzing numeric time-series data. It is designed to monitor and analyze metrics related to system performance, resource utilization, and application behavior.   
+
+**Query Language**: Fluentd uses its own query language called Fluent Query Language (FLQL). It allows users to filter and manipulate log data using a SQL-like syntax. Prometheus, on the other hand, uses Prometheus Query Language (PromQL) for querying and analyzing time-series data. PromQL provides a powerful set of operators and functions specifically tailored for time-series analysis.   
+
+**Monitoring Architecture**: Fluentd follows a centralized architecture where logs are collected from various sources and sent to a centralized server for processing and analysis. It provides a unified view of logs across the system. In contrast, Prometheus follows a decentralized architecture where it scrapes metrics data directly from configured targets at regular intervals. Each target maintains its own metrics data, and Prometheus queries these targets individually.   
+
+**Alerting and Monitoring Capabilities**: Fluentd focuses on log aggregation and routing, and does not have built-in support for alerting and monitoring. Prometheus, on the other hand, has powerful alerting and monitoring capabilities. It allows users to define alert rules based on metric conditions and send alerts to various notification channels. It also provides a flexible dashboard for visualizing and analyzing metrics data.   
+
+**Integration with Ecosystem**: Fluentd is highly extensible and can be integrated with various other tools, services, and platforms. It provides plugins for different log sources and destinations, allowing seamless integration with existing infrastructure. Prometheus also has a wide range of integrations with different systems and frameworks. It provides exporters for collecting metrics from various sources and supports integrations with popular monitoring and visualization tools.   
+
+**In Summary, Fluentd is a log collector and aggregator that operates on unstructured log data, while Prometheus is a monitoring system that specializes in time-series data analysis and alerting. Fluentd uses FLQL for log querying, follows a centralized architecture, and does not have built-in monitoring capabilities. Prometheus uses PromQL for time-series analysis, follows a decentralized architecture, and provides powerful monitoring and alerting features. Both tools have extensive integrations with different systems and can be used together to create a comprehensive monitoring solution.
