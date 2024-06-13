@@ -75,3 +75,6 @@
   </tr>
 
 </table
+
+
+![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/da5f287b-9cc0-4e67-a462-8e797b152c32)
