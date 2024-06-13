@@ -78,4 +78,6 @@
 
 
 ![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/367fd535-a951-400b-a87e-bd24fd3b0461)
+ 
+<a href="https://medium.com/avmconsulting-blog/prometheus-monitoring-with-elastic-stack-in-kubernetes-5cf0aaa7ce04">Reference Architecture</a>
 
