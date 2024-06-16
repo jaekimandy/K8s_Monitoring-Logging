@@ -107,8 +107,11 @@
 ## Prometheus Graphana Metrics
 ![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/8ba5c36d-b7f1-4770-bef2-f31a44bab4c5)
 
-## Prometheus Aleart Rules
+## Prometheus Alert Rules
 ![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/f7eedcad-d5f7-4d7f-9d65-4529bcd00984)
+
+## Prometheus Network Metrics
+https://www.kubecost.com/images/kubernetes-best-practices/pod-networking.png
 
 
 
