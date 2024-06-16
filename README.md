@@ -111,7 +111,8 @@
 ![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/f7eedcad-d5f7-4d7f-9d65-4529bcd00984)
 
 ## Prometheus Network Metrics
-https://www.kubecost.com/images/kubernetes-best-practices/pod-networking.png
+![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/f01eefc0-79f0-4398-9ba3-e0ee2f893f4f)
+
 
 ## Prometheus Grafana Metrics
 ![image](https://github.com/jaekimandy/K8s_Monitoring-Logging/assets/99704906/899d6e75-8ed0-43d0-8591-fae05d1f8be8)
